@@ -1,6 +1,6 @@
 # Facebook Chat Bot Messenger
 
-A bot (short for "robot") is an automated program that runs over the Internet. Some bots run automatically, while others only execute commands when they receive specific input.<br><br>
+A bot (short for "robot") is an automated program that runs over the Internet. Some bots run automatically, while others only execute commands when they receive specific input.<br>
 
 So Facebook Chat Bot is a script that respond to the chat asked by user automatically based on Keywords or phrases. 
 
@@ -9,33 +9,33 @@ So Facebook Chat Bot is a script that respond to the chat asked by user automati
 
 1. Clone or Download the repository and keep it in server or local server(like XAMPP).
 
-2. For this we will be using Chat Fuel(Free and easy to use this API 100000 messages per month which is more than enough) <br><br>	
+2. For this we will be using Chat Fuel(Free and easy to use this API 100000 messages per month which is more than enough) <br>	
 
 3. Goto [Chat Fuel](https://www.chatfuel.com)<br><br>
 
-4. Click on Get started for Free.<br><br>
+4. Click on Get started for Free.<br>
 
-5. A Facebook Page will open, enter your Credentials<br><br>
+5. A Facebook Page will open, enter your Credentials<br>
 
-6. You will be redirected to a dashboard Chatfuel Dashboard<br><br>
+6. You will be redirected to a dashboard Chatfuel Dashboard<br>
 
-7. In another tab open facebook, you need to create a Facebook Page: Just upload profile  pic of that page and some litte description<br><br>
+7. In another tab open facebook, you need to create a Facebook Page: Just upload profile  pic of that page and some litte description<br>
 
-8. Now goto Chatfuel Dashboard Page and refresh it, select the page you have just created and click on "CREATE A BLANK CHATBOT"<br><br>
+8. Now goto Chatfuel Dashboard Page and refresh it, select the page you have just created and click on "CREATE A BLANK CHATBOT"<br>
 
-9. 	Now in the dashboard you will find many tabs, first tab is Build: You can edit Welcome Message. This is the message which Bot will ask on fresh chat.So Edit accordingly. Follow the preview below for better understanding<br><br>
+9. 	Now in the dashboard you will find many tabs, first tab is Build: You can edit Welcome Message. This is the message which Bot will ask on fresh chat.So Edit accordingly. Follow the preview below for better understanding<br>
 
-10. Now the second tab is Default Tab: So this message will be shown whenever saved keywords will not be found: Eg. We couldn't understand, please rephrase your message.<br><br>
+10. Now the second tab is Default Tab: So this message will be shown whenever saved keywords will not be found: Eg. We couldn't understand, please rephrase your message.<br>
 
-11. Now Goto Set Up AI: Here we we write different keywords and their equivalent answers possible.You can write as many answers.<br><br>
+11. Now Goto Set Up AI: Here we we write different keywords and their equivalent answers possible.You can write as many answers.<br>
 
-12. You can build campaign card or Gallery(as shown in preview), Text Card, Image, Quick Reply and Plugin as per your requirement. This will also show with message type whether default or welcome. You can paste your website Link in that card or image.<br><br>
+12. You can build campaign card or Gallery(as shown in preview), Text Card, Image, Quick Reply and Plugin as per your requirement. This will also show with message type whether default or welcome. You can paste your website Link in that card or image.<br>
 
 13. Now on the Build Tab Just beside your logo there is link like m.me/21........
-Copy It<br><br>
+Copy It<br>
 
 14. The next task is to Link this Facebook Bot with your website:
- So Goto Website  Paste this Link. <br><br>
+ So Goto Website  Paste this Link. <br>
 
  ```
 
@@ -44,14 +44,14 @@ Copy It<br><br>
 ```
  and in this href section, paste the unique code that you have copied in point 12.
 
- So now when user clicks that link or image, First messenger will be opened in seperate tab that asks for your Facebook authentication. You chat opened will be Your Bot created. For me Fundlr Bot will be created.<br><br>
+ So now when user clicks that link or image, First messenger will be opened in seperate tab that asks for your Facebook authentication. You chat opened will be Your Bot created. For me Fundlr Bot will be created.<br>
 
- 15. So try different phrases or words you have given in Dashboard.<br><br>
+ 15. So try different phrases or words you have given in Dashboard.<br>
 
- 16. Alternately even if your facebook chat is opened type your Bot name and open it that facility will work there too.<br><br>
+ 16. Alternately even if your facebook chat is opened type your Bot name and open it that facility will work there too.<br>
 
- 17. Thank You Friends feel free to fork and star if it was a help <br><br>
-
+ 17. Thank You Friends feel free to fork and star if it was a help <br>
+ 
   
 ## Preview
 
